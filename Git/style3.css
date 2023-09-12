@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-  
+    font-family: 'Hachi Maru Pop', cursive;
     font-family: 'Poppins', sans-serif;    
 }
     
@@ -9,11 +9,12 @@
     display: flex;
     justify-content:center ;
     align-items: center;
-    background-color: rgba(29, 127, 226, 0.479);
     min-height: 100vh;
-background-image: url(../image/c4f4bcba01f0ba6001d56f9a144ced88.jpg);
+    background-color: rgba(170, 187, 21, 0.678);
+    background-image: url(../image/coming\ soon.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     }
     .wrapper
     {
