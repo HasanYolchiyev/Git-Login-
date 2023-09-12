@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Hachi Maru Pop', cursive;
     font-family: 'Poppins', sans-serif;    
 }
     
@@ -10,11 +9,11 @@
     justify-content:center ;
     align-items: center;
     min-height: 100vh;
-    background-color: rgba(170, 187, 21, 0.678);
-    background-image: url(../image/coming\ soon.jpg);
+    background-image: url(..//image//blackk.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background: rgba(255, 0, 0, 0.651);
     }
     .wrapper
     {
